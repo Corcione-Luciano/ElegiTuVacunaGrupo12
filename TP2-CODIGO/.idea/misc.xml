@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout-qwerty/registro.xml" value="0.72" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/activity_desbloqueo.xml" value="0.25" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/centro_seleccionado.xml" value="0.22" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/centros_encontrados.xml" value="0.25" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/ingreso_patron.xml" value="0.25" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/mostrar_metricas.xml" value="0.22" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/principal.xml" value="0.33" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/registrarse.xml" value="0.22" />
+        <entry key="..\:/Users/HCKATAU/AndroidStudioProjects/ElegiTuVacuna2/app/src/main/res/layout/registro_patron.xml" value="0.25" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/activity_desbloqueo.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/activity_main.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/centro_seleccionado.xml" value="0.17796052631578949" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/centros_encontrados.xml" value="0.17796052631578949" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/ingreso_patron.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/principal.xml" value="0.18" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/registrarse.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/LUCHO/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/registro_patron.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout-qwerty/registro.xml" value="0.20634920634920634" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/activity_desbloqueo.xml" value="0.136" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/centro_seleccionado.xml" value="0.1" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/ingreso_patron.xml" value="0.1" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/principal.xml" value="0.16" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/registrarse.xml" value="0.1" />
+        <entry key="..\:/Users/Pepe/Documents/GitHub/ElegiTuVacuna2/app/src/main/res/layout/registro_patron.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

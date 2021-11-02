@@ -1,0 +1,5 @@
+Buenos Aires,La Matanza,Calle Falsa 123,http://www.so-unlam.com.ar/wiki/index.php/PUBLICO:2°_Cuatrimestre_Año_2021,Centro comunal Sarmiento,El centro de la comunidad,Moderna
+Buenos Aires,Tres de Febrero,Diaz Velez 546,https://www.unlam.edu.ar/,Farmacia Romy,Farmacia de barrio,AstraZeneca
+Capital Federal,,Calle Falsa 321,http://www.so-unlam.com.ar/wiki/index.php/PUBLICO:2°_Cuatrimestre_Año_2021,Vacuna2,Vacuna3,Sputnik V
+Buenos Aires,La Matanza,Florencio Varela 1265,https://www.unlam.edu.ar/,UNLAM,Universidad de la Matanza,Moderna
+Buenos Aires,La Matanza,AV siempre viva 234,http://www.so-unlam.com.ar/wiki/index.php/PUBLICO:2°_Cuatrimestre_Año_2021,Centro de mayo,Centro municipal vecinal,Moderna
